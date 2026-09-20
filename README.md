@@ -17,6 +17,7 @@ PROCESS PLANNING AND PLANT LAYOUT FOR TRANSMISSION SHAFT
 15. Time Estimation (Approximate) Cutting: 4 min Facing & Turning: 35 min Drilling/Tapping: 6 min Deburring & Inspection: 9 min Total Cycle Time per Component: ~54 minutes
 16. Quality Control Inspection is carried out using vernier calipers, micrometers, and dial gauges. Parameters checked include diameter, length, runout, and surface finish.
 17. Plant Layout The plant layout is designed to ensure smooth material flow, minimum handling time, and operator safety. The layout includes designated areas for raw material storage, CNC machining, NC machining, conveyors, inspection, and finished goods storage. The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view arrangement of machines, safety fencing, conveyor system, storage racks, and inspection area.
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8862b7fc-18a8-4f8d-b71f-dcdc0cf30a34" />
+![Uploading image.png…]()
+
 
 18. Conclusion The CNC-based process planning and well-organized plant layout ensure efficient production of transmission shafts with consistent quality, reduced cycle time, and improved safety.
