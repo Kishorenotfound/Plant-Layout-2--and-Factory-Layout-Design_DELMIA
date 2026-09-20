@@ -20,4 +20,5 @@ PROCESS PLANNING AND PLANT LAYOUT FOR TRANSMISSION SHAFT
 ![Uploading image.png…]()
 
 
+
 18. Conclusion The CNC-based process planning and well-organized plant layout ensure efficient production of transmission shafts with consistent quality, reduced cycle time, and improved safety.
