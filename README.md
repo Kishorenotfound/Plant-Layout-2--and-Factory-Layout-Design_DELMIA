@@ -18,7 +18,8 @@ PROCESS PLANNING AND PLANT LAYOUT FOR TRANSMISSION SHAFT
 16. Quality Control Inspection is carried out using vernier calipers, micrometers, and dial gauges. Parameters checked include diameter, length, runout, and surface finish.
 17. Plant Layout The plant layout is designed to ensure smooth material flow, minimum handling time, and operator safety. The layout includes designated areas for raw material storage, CNC machining, NC machining, conveyors, inspection, and finished goods storage. The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view arrangement of machines, safety fencing, conveyor system, storage racks, and inspection area.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fc2e72a0-02f2-4363-96b6-6f348dd2ab9f" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/de1f921b-9f2d-4499-9ad3-b80467fb5b0a" />
+
 
 
 18. Conclusion The CNC-based process planning and well-organized plant layout ensure efficient production of transmission shafts with consistent quality, reduced cycle time, and improved safety.
