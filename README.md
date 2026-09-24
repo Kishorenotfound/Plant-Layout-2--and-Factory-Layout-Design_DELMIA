@@ -1,4 +1,5 @@
 1.Overall layout
+
 The large rectangular enclosed area represents the factory floor. The layout is designed in 3D so that equipment placement and movement can be studied before physically setting up the factory.
 
 The two trucks at opposite ends represent material receiving and dispatch:
@@ -8,6 +9,7 @@ The two trucks at opposite ends represent material receiving and dispatch:
 This gives the plant a basic material flow from entry → processing → assembly/packing → dispatch.
 
 2.Machines and equipment
+
 Inside the factory, you can see several types of equipment:
 
 Industrial machines – used for manufacturing/processing operations. Workbenches – areas where operators perform manual operations. Industrial shelving – storage of components, tools, or materials. Wall shelves – additional storage. Gitter containers – wire containers used for storing parts. Package conveyors – move parts/products between workstations. Assembly equipment – used for assembly operations.
@@ -15,7 +17,8 @@ Industrial machines – used for manufacturing/processing operations. Workbenche
 The tree on the left side lists the individual resources/equipment placed in the factory.
 
 3.Conveyors and material flow
-The black/grey conveyor structures in the middle of the plant are particularly important.
+
+black/grey conveyor structures in the middle of the plant are particularly important.
 
 They are used to:
 
