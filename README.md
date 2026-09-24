@@ -27,7 +27,7 @@ Raw material → storage → machine operation → assembly → packing → disp
 
 The layout can be arranged so that unnecessary movement and backtracking are reduced.
 
-4.Workers/operators
+Workers/operators
 The small human figures visible around the machines represent operators/workers.
 
 Their positions can be used to study:
