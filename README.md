@@ -1,25 +1,58 @@
-PROCESS PLANNING AND PLANT LAYOUT FOR TRANSMISSION SHAFT
+1.Overall layout
+The large rectangular enclosed area represents the factory floor. The layout is designed in 3D so that equipment placement and movement can be studied before physically setting up the factory.
 
-1. Introduction This document presents the complete process planning and plant layout for the manufacture of a Transmission Shaft using CNC and NC machines. The objective is to achieve efficient material flow, high productivity, and safe working conditions.
-2. Product Description Product: Transmission Shaft Function: Transmits torque and rotary motion Application: Automotive and industrial machinery Production Type: Batch production Manufacturing Method: CNC Turning and NC machining
-3. Material Selection Material Selected: EN8 / AISI 1040 Steel Reason: High strength, good machinability, and suitability for CNC finish turning. Raw Material Form: Hot rolled round bar.
-4. Process Planning The transmission shaft is manufactured using CNC and NC machines without grinding. Surface finish and dimensional accuracy are achieved through finish turning operations. Manufacturing Steps:
-5. Raw material cutting using band saw
-6. Facing and centering on CNC turning centre
-7. Rough turning
-8. Step and profile turning
-9. Grooving and chamfering
-10. Drilling or tapping (if required)
-11. Finish turning
-12. Deburring
-13. Inspection
-14. Machines Used • Band Saw Machine • CNC Turning Centre • NC / Conventional Machine • Inspection table with gauges
-15. Time Estimation (Approximate) Cutting: 4 min Facing & Turning: 35 min Drilling/Tapping: 6 min Deburring & Inspection: 9 min Total Cycle Time per Component: ~54 minutes
-16. Quality Control Inspection is carried out using vernier calipers, micrometers, and dial gauges. Parameters checked include diameter, length, runout, and surface finish.
-17. Plant Layout The plant layout is designed to ensure smooth material flow, minimum handling time, and operator safety. The layout includes designated areas for raw material storage, CNC machining, NC machining, conveyors, inspection, and finished goods storage. The plant layout design is prepared using DELMIA Plant Layout Design and is shown in the figure below. The uploaded layout image represents the top-view arrangement of machines, safety fencing, conveyor system, storage racks, and inspection area.
+The two trucks at opposite ends represent material receiving and dispatch:
+
+🚚 Left side → incoming raw materials/components 🚚 Right side → outgoing finished products
+
+This gives the plant a basic material flow from entry → processing → assembly/packing → dispatch.
+
+2.Machines and equipment
+Inside the factory, you can see several types of equipment:
+
+Industrial machines – used for manufacturing/processing operations. Workbenches – areas where operators perform manual operations. Industrial shelving – storage of components, tools, or materials. Wall shelves – additional storage. Gitter containers – wire containers used for storing parts. Package conveyors – move parts/products between workstations. Assembly equipment – used for assembly operations.
+
+The tree on the left side lists the individual resources/equipment placed in the factory.
+
+3.Conveyors and material flow
+The black/grey conveyor structures in the middle of the plant are particularly important.
+
+They are used to:
+
+Move materials → reduce manual transportation → connect workstations → improve production flow.
+
+For example:
+
+Raw material → storage → machine operation → assembly → packing → dispatch
+
+The layout can be arranged so that unnecessary movement and backtracking are reduced.
+
+4.Workers/operators
+The small human figures visible around the machines represent operators/workers.
+
+Their positions can be used to study:
+
+Operator accessibility Working space Walking distance Machine accessibility Ergonomics Potential interference between workers and equipment 5. Safety and factory boundaries
+
+The perimeter around the factory contains guard rails/fencing.
+
+These can represent:
+
+Restricted areas Machine safety zones Factory boundaries Separation between pedestrians and material movement
+
+This is important when designing a real manufacturing plant.
+
+What DELMIA is doing here
+The important point is that this isn't simply a 3D drawing.
+
+DELMIA allows you to digitally plan and validate the manufacturing facility before building it physically. image
+
+You can study things such as:
+
+Area Purpose Equipment placement Decide where machines should be installed Material flow Determine how parts move through the plant Workstation layout Arrange operator work areas Conveyor planning Connect different production stages Space utilization Check whether available floor space is sufficient Accessibility Ensure machines can be reached Ergonomics Study operator working conditions Safety Maintain separation and safe working areas Factory optimization Reduce unnecessary movement and handling
 
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/de1f921b-9f2d-4499-9ad3-b80467fb5b0a" />
 
 
 
-18. Conclusion The CNC-based process planning and well-organized plant layout ensure efficient production of transmission shafts with consistent quality, reduced cycle time, and improved safety.
+
